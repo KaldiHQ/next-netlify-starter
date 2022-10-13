@@ -12,9 +12,9 @@ export default function Home() {
 
       <main>
         <p><img src="/logo.png" alt="Kaldi Company Logo" width="300" /></p>
-        <Header title="Welcome to the future home of Kaldi Company!" />
+        <Header title="Coming Soon" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          Future home of Kaldi Company - a blockchain commodity company innovating in the coffee space
         </p>
       </main>
 
