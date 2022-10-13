@@ -1,6 +1,6 @@
 html,
 body {
-  background: #333333;
+  background: #1e2731;
   padding: 0;
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell,
@@ -12,7 +12,7 @@ body {
 }
 
 main {
-  background: #333333;
+  background: #1e2731;
   color: #ffffff;
   padding: 5rem 0;
   flex: 1;
