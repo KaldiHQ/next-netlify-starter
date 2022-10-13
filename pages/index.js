@@ -11,7 +11,7 @@ export default function Home() {
       </Head>
 
       <main>
-        <p><img src="/Kaldi%20Company%20Logo%20-%20Black.png" alt="Kaldi Company Logo" /></p>
+        <p><img src="/Kaldi%20Company%20Logo%20-%20Black.png" alt="Kaldi Company Logo" width="300" /></p>
         <Header title="Welcome to the future home of Kaldi Company!" />
         <p className="description">
           Get started by editing <code>pages/index.js</code>
