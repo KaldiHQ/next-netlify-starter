@@ -11,7 +11,7 @@ export default function Home() {
       </Head>
 
       <main>
-        <p><img src="/logo.png" alt="Kaldi Company Logo" width="300" /></p>
+        <p><img src="/logo.png" alt="Kaldi Company Logo" width="500" /></p>
         <Header title="Coming Soon" />
         <p className="description">
           Future home of Kaldi Company - a blockchain commodity company innovating in the coffee space
